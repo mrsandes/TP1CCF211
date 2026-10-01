@@ -1,0 +1,6 @@
+Red 3
+Blue 3
+3
+143 Snorlax Normal 0 5
+131 Lapras Água 0 -5
+149 Dragonite Dragão 5 0

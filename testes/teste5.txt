@@ -1,0 +1,7 @@
+May 2
+Dawn 2
+4
+255 Torchic Fogo 100 100
+393 Piplup Água -100 -100
+258 Mudkip Água 105 105
+403 Shinx Elétrico -105 -105

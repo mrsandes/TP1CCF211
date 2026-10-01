@@ -1,0 +1,7 @@
+Jessie 0
+James 1
+4
+052 Meowth Normal 1 0
+109 Koffing Venenoso -1 0
+023 Ekans Venenoso 0 2
+024 Arbok Venenoso 0 -2
